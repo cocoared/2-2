@@ -1,4 +1,4 @@
-# README
+Rails 2章　アプリケーションを作成しよう
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
